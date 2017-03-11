@@ -19,14 +19,14 @@ Route::get('/', function () {
     ->with('gini', $gini);
 });
 
-Route::get('hola',function (){
-	return view('hola');
+Route::get('liburan',function (){
+	return view('liburan');
 });
 
 Route::get('bebas',function (){
 	return view('terserah.bebas');
 });
 
-Route::get('hola/bebas',function (){
-	return view('hola.bebas');
+Route::get('liburan/bebas',function (){
+	return view('liburan.bebas');
 });

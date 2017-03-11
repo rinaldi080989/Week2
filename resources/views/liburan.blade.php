@@ -79,12 +79,17 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    <a>Profil</a>
+                    <a>BEBAS</a>
                 </div>
 
                 <div class="links">
-					<img src="{{asset('images/DSCF5355.jpg')}}" width="500", height="350">
-					
+					<img src="{{asset('images/DSCF4005.jpg')}}" width="250", height="200">
+					<img src="{{asset('images/DSCF4005.jpg')}}" width="250", height="200">
+					<img src="{{asset('images/DSCF4005.jpg')}}" width="250", height="200"><br>
+
+					<img src="{{asset('images/DSCF4005.jpg')}}" width="250", height="200">
+					<img src="{{asset('images/DSCF4005.jpg')}}" width="250", height="200">
+					<img src="{{asset('images/DSCF4005.jpg')}}" width="250", height="200">
             	<div>
 
                 

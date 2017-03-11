@@ -79,8 +79,8 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    <a href="{{ url('bebas') }}" >Hola</a><br>
-                    <a href="{{ url('hola') }}" >bebas</a><br>
+                    <a href="{{ url('bebas') }}" >Profil</a><br>
+                    <a href="{{ url('liburan') }}" >Liburan</a><br>
                 </div>
 
                 <div class="links">
